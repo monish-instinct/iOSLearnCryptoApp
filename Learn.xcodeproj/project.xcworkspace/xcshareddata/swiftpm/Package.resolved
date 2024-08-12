@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "swift-package",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/monish-instinct/swift-package.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "1cbe4c6ff8f8cca1a460291572de2fac0e6faa6e"
+      }
+    }
+  ],
+  "version" : 2
+}
